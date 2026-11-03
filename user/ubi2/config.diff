@@ -114,3 +114,14 @@ CONFIG_PACKAGE_uhttpd-mod-ubus=y
 CONFIG_PACKAGE_wpad-openssl=y
 # CONFIG_SIGN_EACH_PACKAGE is not set
 # CONFIG_TARGET_ROOTFS_INITRAMFS is not set
+CONFIG_PACKAGE_arp-scan=y
+CONFIG_PACKAGE_arp-scan-database=y
+CONFIG_PACKAGE_ddns-scripts-cloudflare=y
+CONFIG_PACKAGE_drill=y
+CONFIG_PACKAGE_fping=y
+CONFIG_PACKAGE_luci-app-banip=y
+CONFIG_PACKAGE_luci-app-ddns=y
+CONFIG_PACKAGE_luci-app-pbr=y
+CONFIG_PACKAGE_luci-app-usteer=y
+CONFIG_PACKAGE_luci-proto-wireguard=y
+CONFIG_PACKAGE_stubby=y
